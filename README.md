@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Djalma Almeida
-- 👀 I’m interested in ... front-end 
-- 🌱 I’m currently learning ... Javascript 
+- 👀 I’m interested in front-end 
+- 🌱 I’m currently learning Javascript 
 - 📚 I am studying Systems Analysis and Development, in the 2nd semester. 
 - 📫 How to reach me ...
 
